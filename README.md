@@ -1,2 +1,2 @@
 # Regressions
-Learning about Regressions model and how they work
+Learning about Machine Learning Regression models and how they work
